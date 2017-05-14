@@ -4,6 +4,7 @@
   "description": "A boilerplate for p5.js projects",
   "main": "index.js",
   "scripts": {
+    "start": "./node_modules/gulp/bin/gulp.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
