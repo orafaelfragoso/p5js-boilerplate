@@ -1,0 +1,28 @@
+{
+  "name": "p5js-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for p5.js projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelfragosom/p5js-boilerplate.git"
+  },
+  "keywords": [
+    "p5.js",
+    "p5",
+    "boilerplate"
+  ],
+  "author": "Rafael Fragoso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelfragosom/p5js-boilerplate/issues"
+  },
+  "homepage": "https://github.com/rafaelfragosom/p5js-boilerplate#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1"
+  }
+}
